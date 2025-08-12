@@ -1,0 +1,7 @@
+streamlit
+Pillow
+fpdf2
+PyPDF2
+pydub
+moviepy
+imageio-ffmpeg
